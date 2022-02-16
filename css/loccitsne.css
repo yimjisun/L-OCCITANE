@@ -128,7 +128,7 @@ section.s1 .swiper .swiper-slide{
     color: #333;
     padding-top: 132vw;
     text-align: center;
-    text-shadow: -3px 0 #fff, 0 3px #fff, 3px 0 #fff, 0 -3px #fff;
+    text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
 }
 section.s1 .swiper .main1{
     background-image: url(../img/s-1.jpg);
@@ -488,14 +488,14 @@ section.s4 .swiper-wrapper .swiper-slide h1{
     text-align: left;
     font-size: 5vw;
     padding-bottom: 1vw;
-    text-shadow: -2px 0 #333, 0 2px #333, 2px 0 #333, 0 -2px #333;
+    text-shadow: -1px 0 #333, 0 1px #333, 1px 0 #333, 0 -1px #333;
 }
 section.s4 .swiper-wrapper .swiper-slide p{
     color: #fff;
     text-align: left;
     margin-top: -0.2vw;
     font-size: 4vw;
-    text-shadow: -2px 0 #333, 0 2px #333, 2px 0 #333, 0 -2px #333;
+    text-shadow: -1px 0 #333, 0 1px #333, 1px 0 #333, 0 -1px #333;
 }
 section.s4 .swiper-wrapper .swiper-slide .s4_icon2 p{
     color: #fff;
@@ -508,7 +508,7 @@ section.s4 .swiper-wrapper .swiper-slide hr{
     height: 2px;
     background-color: #fff;
     margin-bottom: 5vw;
-    text-shadow: -2px 0 #333, 0 2px #333, 2px 0 #333, 0 -2px #333;
+    text-shadow: -1px 0 #333, 0 1px #333, 1px 0 #333, 0 -1px #333;
 }
 section.s4 .swiper-horizontal > .swiper-pagination-bullets{
     bottom: -40px;
